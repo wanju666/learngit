@@ -6,3 +6,4 @@ Creating a new branch is quick and simple.
 
 dev add content
 dev add content-2
+dev add content-3
