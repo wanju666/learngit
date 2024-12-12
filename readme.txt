@@ -1,7 +1,19 @@
-Git is a distributed version control system.
-Git is a free software distributed under the GPL.
-Git has a mutable index called stage.
-Git tracks changes of files.
-Creating a new branch is quick and simple.
+README
+注意事项
+1
+1.1
+1.2
+修改一下1.3
+1.4
 
-tag v2.0
+2
+2.1
+2.2
+修改了2.3.2
+2.4
+2.5
+修改了2.6.1
+
+3
+3.1
+3.2
